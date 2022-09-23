@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Himanshu Pandey
 - 👀 I’m interested in python programming
-- 🌱 I’m currently learning CI: github-actions
+- 👀 I’ve recently worked on CI: github-actions
+- 🌱 I’m currently learning advance python concepts 
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me himanshux.pandey@intel.com
 
